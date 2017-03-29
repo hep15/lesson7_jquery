@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 28, 2017
 
 ### Student Name:  
-(First and Last Name)
+Haley Palmer
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project allowed us to edit an online recipe.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that you can edit the script using Shift-Ctrl-J.
+2. The jQuery animate() method lets	you	create custom animations. The animation changes based on speed and height.
+3. The jQuery hover() method takes specific tages and adds color to it. When the mouse hovers over the specific tag, it changes colors.
